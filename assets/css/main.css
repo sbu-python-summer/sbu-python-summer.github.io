@@ -3217,11 +3217,11 @@ table.alt tbody tr td {
 /* Banner */
 
 #banner {
-    background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
-    background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
-    background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
-    background-image: url("images/overlay.png"), linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
-    background-size: 100px 100px, cover;
+    background-image: url("images/0101_banner.png"), -moz-linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
+    background-image: url("images/0101_banner.png"), -webkit-linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
+    background-image: url("images/0101_banner.png"), -ms-linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
+    background-image: url("images/0101_banner.png"), linear-gradient(45deg, #4A4771 0%, #7C3875 100%);
+    background-size: cover;
     color: rgba(255, 255, 255, 0.5);
     padding: 14em 0 4em;
 }
